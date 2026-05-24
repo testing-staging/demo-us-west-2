@@ -1,0 +1,5 @@
+[cdn.redirects]
+"o3l3r40kkt7w16jw.demo.onwebslice.com" = { to = "zlag5w2mg3bzva9.demo.webslice.dev", type = 301 }
+
+[deploy.commands]
+release = "release.sh"
